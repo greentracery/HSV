@@ -5,6 +5,7 @@
 * For each color from a given color palette, determine its belonging to one of the
 * basic color groups (based on the HSV color representation model).
 * @autor A.Mikhaylichenko  greentracery@gmail.com
+* @url https://github.com/greentracery/HSV/
 */
 class PaletteHandler
 {

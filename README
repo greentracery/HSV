@@ -2,7 +2,7 @@
 
 HSVRGBConvertor.php - конвертор из RGB (или HEX)-представления в HSV (Hue,Saturation,Value).
 PaletteHandler.php -  разбивка набора цветов по заданным группам.
-demo.php - пример использования.
+demo.php - пример использования вышеуказанных классов конвертора и группировщика цветов.
 
 palette1.csv, palette2.csv, palette3.csv - образцы наборов цветов (демо-палитры).
 

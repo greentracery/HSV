@@ -3,6 +3,7 @@
 * Пример использования классов HSVRGBConvertor и PaletteHandler.
 * An example of using the HSVRGBConvertor and PaletteHandler classes.
 * @autor A.Mikhaylichenko  greentracery@gmail.com
+* @url https://github.com/greentracery/HSV/
 */
 
 @ini_set("display_errors", "on");

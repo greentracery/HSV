@@ -3,6 +3,7 @@
 * Преобразование цвета из представления RGB в HSV.
 * Color conversion from RGB to HSV presentation.
 * @autor A.Mikhaylichenko  greentracery@gmail.com
+* @url https://github.com/greentracery/HSV/
 */
 class HSVRGBConvertor
 {
